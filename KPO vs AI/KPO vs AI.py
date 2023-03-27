@@ -32,4 +32,4 @@ def játék(e):
 eszközök = ["kő", "papír", "olló", "flex", "hajrá",]
 while True:
     játék(eszközök)
-h
+
